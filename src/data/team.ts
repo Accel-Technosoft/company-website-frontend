@@ -6,7 +6,7 @@ export const teamMembers: TeamMember[] = [
     name: "John Mukasa",
     position: "Chief Executive Officer",
     department: "Executive",
-    bio: "John is a visionary leader with over 15 years of experience in the technology sector. He founded TechSolutions Uganda with the mission to bridge the digital divide in East Africa. Under his leadership, the company has grown from a small startup to a leading IT solutions provider.",
+    bio: "John is a visionary leader with over 15 years of experience in the technology sector. He founded Accel Technosoft with the mission to bridge the digital divide in East Africa. Under his leadership, the company has grown from a small startup to a leading IT solutions provider.",
     image: "/images/team/john-mukasa.jpg",
     email: "john.mukasa@techsolutions.ug",
     linkedin: "https://linkedin.com/in/johnmukasa",

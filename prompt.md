@@ -188,7 +188,7 @@ src/
 ## Specific Content Guidelines
 
 **Company Information:**
-- Name: "TechSolutions Uganda" (or similar)
+- Name: "Accel Technosoft" (or similar)
 - Location: Kampala, Uganda
 - Phone: +256 format
 - Email: Professional domain

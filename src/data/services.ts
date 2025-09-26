@@ -27,7 +27,7 @@ export const services: Service[] = [
     images: ["/images/services/software-dev-1.jpg", "/images/services/software-dev-2.jpg"],
     pricing: "Starting from $5,000",
     seoMeta: {
-      title: "Custom Software Development Services - TechSolutions Uganda",
+      title: "Custom Software Development Services - Accel Technosoft",
       description: "Professional custom software development services in Uganda. Web apps, mobile apps, and desktop solutions tailored to your business needs.",
       keywords: ["custom software", "web development", "mobile app development", "uganda", "kampala", "software solutions"]
     }

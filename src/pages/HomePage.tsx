@@ -152,7 +152,7 @@ const HomePage = () => {
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div className="space-y-8">
               <div className="space-y-4">
-                <h2 className="text-4xl font-bold text-secondary-900">Why Choose TechSolutions Uganda?</h2>
+                <h2 className="text-4xl font-bold text-secondary-900">Why Choose Accel Technosoft?</h2>
                 <p className="text-xl text-secondary-600">
                   We combine local expertise with global standards to deliver exceptional technology solutions.
                 </p>

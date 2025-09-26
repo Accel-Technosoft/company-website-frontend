@@ -28,7 +28,7 @@ export const products: Product[] = [
     stockStatus: "in-stock",
     priceRange: "$1,200 - $1,500",
     seoMeta: {
-      title: "Dell Latitude 5520 Business Laptop - TechSolutions Uganda",
+      title: "Dell Latitude 5520 Business Laptop - Accel Technosoft",
       description: "Professional Dell Latitude 5520 laptop with Intel Core i7, 16GB RAM, 512GB SSD. Perfect for business use in Uganda.",
       keywords: ["dell laptop", "business laptop", "latitude 5520", "uganda", "professional laptop"]
     }
@@ -59,7 +59,7 @@ export const products: Product[] = [
     stockStatus: "in-stock",
     priceRange: "$1,000 - $1,300",
     seoMeta: {
-      title: "HP EliteBook 840 G8 Business Laptop - TechSolutions Uganda",
+      title: "HP EliteBook 840 G8 Business Laptop - Accel Technosoft",
       description: "Premium HP EliteBook 840 G8 laptop with Intel Core i5, advanced security features. Available in Uganda.",
       keywords: ["hp laptop", "elitebook", "business laptop", "uganda", "premium laptop"]
     }
@@ -123,7 +123,7 @@ export const products: Product[] = [
     stockStatus: "in-stock",
     priceRange: "$800 - $1,100",
     seoMeta: {
-      title: "Dell OptiPlex 7090 Desktop Computer - TechSolutions Uganda",
+      title: "Dell OptiPlex 7090 Desktop Computer - Accel Technosoft",
       description: "Compact Dell OptiPlex 7090 desktop with Intel Core i5, perfect for business use. Available in Uganda.",
       keywords: ["dell desktop", "optiplex", "business computer", "uganda", "office desktop"]
     }

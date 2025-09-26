@@ -142,11 +142,11 @@ const BlogPage = () => {
                 <div className="flex-1 space-y-4">
                   <div>
                     <h3 className="text-xl font-semibold text-secondary-900">{post.author}</h3>
-                    <p className="text-primary-600 font-medium">Technology Expert at TechSolutions Uganda</p>
+                    <p className="text-primary-600 font-medium">Technology Expert at Accel Technosoft</p>
                   </div>
                   
                   <p className="text-secondary-700 leading-relaxed">
-                    {post.author} is a technology expert at TechSolutions Uganda with extensive experience in helping businesses leverage technology for growth and innovation. They specialize in digital transformation, cloud computing, and emerging technologies.
+                    {post.author} is a technology expert at Accel Technosoft with extensive experience in helping businesses leverage technology for growth and innovation. They specialize in digital transformation, cloud computing, and emerging technologies.
                   </p>
                   
                   <Link to="/about" className="inline-flex items-center gap-2 text-primary-600 hover:text-primary-700 font-medium">
@@ -256,7 +256,7 @@ const BlogPage = () => {
             <div className="space-y-4">
               <h1 className="text-5xl lg:text-6xl font-bold text-secondary-900">Tech Insights Blog</h1>
               <p className="text-xl text-secondary-600 leading-relaxed">
-                Stay updated with the latest technology trends, best practices, and insights from our experts at TechSolutions Uganda.
+                Stay updated with the latest technology trends, best practices, and insights from our experts at Accel Technosoft.
               </p>
             </div>
             

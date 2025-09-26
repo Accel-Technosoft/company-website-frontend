@@ -51,14 +51,14 @@ To maximize the benefits of cloud computing, East African businesses and governm
 
 The future of cloud computing in East Africa is bright, with immense potential for economic growth and innovation. By addressing current challenges and leveraging unique regional opportunities, East Africa can become a leading digital economy on the global stage.
 
-At TechSolutions Uganda, we're committed to helping businesses navigate their cloud journey with tailored solutions that address local needs and global standards.`,
+At Accel Technosoft, we're committed to helping businesses navigate their cloud journey with tailored solutions that address local needs and global standards.`,
     author: "Sarah Nakamya",
     publishDate: "2024-01-15T10:00:00Z",
     tags: ["cloud", "east africa", "digital transformation", "infrastructure"],
     images: ["/images/blog/cloud-computing-east-africa.jpg"],
     readTime: 8,
     seoMeta: {
-      title: "The Future of Cloud Computing in East Africa - TechSolutions Uganda",
+      title: "The Future of Cloud Computing in East Africa - Accel Technosoft",
       description: "Explore opportunities and challenges in East Africa's cloud computing landscape. Insights on digital transformation, infrastructure, and business growth.",
       keywords: ["cloud computing", "east africa", "digital transformation", "uganda", "technology trends"]
     }
@@ -207,7 +207,7 @@ Cybersecurity is not a one-time investment but an ongoing process. By implementi
 
 Remember: The cost of prevention is always less than the cost of recovery from a cyber attack.
 
-TechSolutions Uganda offers comprehensive cybersecurity assessments and managed security services tailored for SMEs. Contact us to learn how we can help protect your business.`,
+Accel Technosoft offers comprehensive cybersecurity assessments and managed security services tailored for SMEs. Contact us to learn how we can help protect your business.`,
     author: "James Okello",
     publishDate: "2024-01-10T14:30:00Z",
     tags: ["cybersecurity", "sme", "uganda", "data protection", "best practices"],
@@ -460,7 +460,7 @@ Digital transformation is a journey, not a destination. Success requires careful
 
 The key is to start where you are, use what you have, and do what you can. Every step forward in your digital journey brings new opportunities for growth and competitiveness.
 
-TechSolutions Uganda specializes in helping traditional businesses navigate their digital transformation journey. Our team of local experts understands the unique challenges and opportunities in the Ugandan market. Contact us to discuss your digital transformation strategy.`,
+Accel Technosoft specializes in helping traditional businesses navigate their digital transformation journey. Our team of local experts understands the unique challenges and opportunities in the Ugandan market. Contact us to discuss your digital transformation strategy.`,
     author: "Grace Namutebi",
     publishDate: "2024-01-05T09:00:00Z",
     tags: ["digital transformation", "traditional business", "uganda", "technology adoption", "business strategy"],
@@ -673,7 +673,7 @@ Building scalable web applications requires careful consideration of architectur
 
 Remember that scalability is not just about handling more users—it's about maintaining performance, reliability, and maintainability as your application grows.
 
-At TechSolutions Uganda, we specialize in building scalable web applications using modern architecture patterns and best practices. Our team can help you design and implement solutions that grow with your business needs.`,
+At Accel Technosoft, we specialize in building scalable web applications using modern architecture patterns and best practices. Our team can help you design and implement solutions that grow with your business needs.`,
     author: "David Ssemakula",
     publishDate: "2023-12-28T11:00:00Z",
     tags: ["web development", "scalability", "architecture", "performance", "best practices"],
@@ -1017,7 +1017,7 @@ Artificial Intelligence presents tremendous opportunities for Ugandan businesses
 
 The AI revolution is not coming—it's already here. Ugandan businesses that embrace AI today will be the leaders of tomorrow's digital economy.
 
-TechSolutions Uganda is at the forefront of AI implementation for businesses across Uganda. Our team of AI experts can help you identify opportunities, develop strategies, and implement AI solutions that drive real business value. Contact us to start your AI journey today.`,
+Accel Technosoft is at the forefront of AI implementation for businesses across Uganda. Our team of AI experts can help you identify opportunities, develop strategies, and implement AI solutions that drive real business value. Contact us to start your AI journey today.`,
     author: "Dr. Patricia Nakato",
     publishDate: "2023-12-20T08:00:00Z",
     tags: ["artificial intelligence", "business automation", "uganda", "machine learning", "digital transformation"],

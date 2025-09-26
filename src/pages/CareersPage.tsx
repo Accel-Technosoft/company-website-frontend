@@ -578,7 +578,7 @@ const CareersPage = () => {
           <div className="text-center space-y-4 mb-16">
             <h2 className="text-4xl font-bold text-secondary-900">What Our Team Says</h2>
             <p className="text-xl text-secondary-600">
-              Hear from our employees about their experience working at TechSolutions Uganda.
+              Hear from our employees about their experience working at Accel Technosoft.
             </p>
           </div>
 

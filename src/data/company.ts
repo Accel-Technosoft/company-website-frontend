@@ -1,7 +1,7 @@
 import type { CompanyInfo } from '../types';
 
 export const companyInfo: CompanyInfo = {
-  name: "TechSolutions Uganda",
+  name: "Accel Technosoft",
   tagline: "Empowering Uganda's Digital Future",
   description: "Leading IT services company in Uganda, providing innovative technology solutions to SMEs, NGOs, and government offices across East Africa.",
   mission: "To empower businesses and organizations in Uganda with cutting-edge technology solutions that drive growth, efficiency, and digital transformation.",
